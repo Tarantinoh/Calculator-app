@@ -1,5 +1,4 @@
-# Calculator-app
-A simple calculator web app built with HTML, CSS, and JavaScript
+markdown
 # Calculator App
 
 A beautiful, responsive calculator web application built with HTML, CSS, and JavaScript.
@@ -19,9 +18,7 @@ A beautiful, responsive calculator web application built with HTML, CSS, and Jav
 
 ## 🚀 Live Demo
 
-👉 **[Try it Live Here](https://your-username.github.io/calculator-app/)**
-
-*(Replace `your-username` with your actual GitHub username)*
+👉 **[Try it Live Here](https://tarantinoh.github.io/calculator-app/)**
 
 ## 📸 Screenshots
 
@@ -41,3 +38,67 @@ A beautiful, responsive calculator web application built with HTML, CSS, and Jav
 | Font Awesome | Icons for UI elements |
 
 ## 📁 Project Structure
+calculator-app/
+│
+├── index.html # Main HTML document
+├── style.css # All CSS styles
+├── script.js # JavaScript functionality
+├── README.md # Project documentation (this file)
+└── .gitignore # Git ignore file
+
+text
+
+## 🎯 How to Use
+
+### Basic Operations:
+1. **Enter numbers**: Click number buttons (0-9)
+2. **Select operation**: Click +, -, ×, ÷
+3. **Calculate**: Click = button
+4. **Clear**: AC button clears everything
+5. **Delete**: DEL removes last digit
+
+### Keyboard Shortcuts:
+| Key | Function |
+|-----|----------|
+| 0-9 | Input numbers |
+| +, -, *, / | Arithmetic operations |
+| Enter or = | Calculate result |
+| Escape (Esc) | Clear all |
+| Backspace | Delete last digit |
+| . (period) | Decimal point |
+
+## 🚀 Getting Started
+
+### Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/tarantinoh/calculator-app.git
+Navigate to project directory:
+
+bash
+cd calculator-app
+Open in browser:
+
+Double-click index.html OR
+
+Use live server in VS Code
+
+🔧 Customization
+Want to modify the calculator? Edit style.css for colors or script.js for functionality.
+
+🚀 Deployment
+This project is deployed using GitHub Pages.
+Your live site is automatically published when you push changes to the main branch.
+
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+👨‍💻 Author
+Kormagum Ambrose
+
+GitHub: @tarantinoh
+
+🙏 Acknowledgments
+Inspired by modern calculator designs
+
+Icons by Font Awesome
