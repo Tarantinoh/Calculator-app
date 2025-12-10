@@ -13,7 +13,17 @@ body {
     align-items: center;
     padding: 20px;
 }
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    /* Remove the flex properties since no icon */
+    text-align: center;
+}
 
+/* Add some spacing for the emoji */
+header h1:before {
+    content: "🧮 ";
+}
 .container {
     max-width: 500px;
     width: 100%;
@@ -161,4 +171,5 @@ footer {
         font-size: 2rem;
     }
 }
+
 
