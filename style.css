@@ -146,6 +146,11 @@ footer {
     header h1 {
         font-size: 2rem;
     }
+    /* Calculator icon using CSS */
+.calculator-icon:before {
+    content: "🧮";
+    margin-right: 10px;
+}
     
     .btn {
         padding: 15px;
@@ -156,3 +161,4 @@ footer {
         font-size: 2rem;
     }
 }
+
